@@ -1,1 +1,1 @@
-# devopsal1
+print("1 sec")
